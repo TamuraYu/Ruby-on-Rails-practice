@@ -1,0 +1,37 @@
+/* 表：一覧表示、詳細表示 */
+@mixin data-table {
+  font-size: 75%;
+  width: 100%;
+
+  th {
+    background-color: #955;
+    color: white;
+    font-weight: normal;
+    width: 100px;
+  }
+  td, th {
+    padding: 4px;
+  }
+  td {
+    background-color: #fed;
+    text-align: left;
+  }
+}
+
+table.list {
+  @include data-table;
+  th { text-align: left; }
+}
+
+table.attr {
+  @include data-table;
+  th { text-align: right; }
+}
+
+table.attr2 {
+  @include data-table;
+  td { 
+    letter-spacing: 3px;
+    text-align: center;
+  }
+}

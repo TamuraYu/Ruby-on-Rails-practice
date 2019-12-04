@@ -1,0 +1,60 @@
+<table class="attr">
+  <tr>
+    <th width="150">Unique ID</th>
+    <td><%= @song.id %></td>
+  </tr>
+  <tr>
+    <th width="150">Title</th>
+    <td><%= @song.song_title %></td>
+  </tr>
+  <tr>
+    <th width="150">Url</th>
+    <td><%= @song.song_url %></td>
+  </tr>
+  <% if admin_user == 1 %>
+    <tr>
+      <th width="150">静かな</th>
+      <td><%= @song.sizuka %></td>
+    </tr>
+    <tr>
+      <th width="150">ゆっくりな</th>
+      <td><%= @song.yukkuri %></td>
+    </tr>
+    <tr>
+      <th width="150">人工的な</th>
+      <td><%= @song.zinkou %></td>
+    </tr>
+    <tr>
+      <th width="150">透き通った</th>
+      <td><%= @song.sukitoru %></td>
+    </tr>
+    <tr>
+      <th width="150">単調な</th>
+      <td><%= @song.tantyo %></td>
+    </tr>
+    <tr>
+      <th width="150">明るい</th>
+      <td><%= @song.akarui %></td>
+    </tr>
+  <% end %>
+  <tr>
+    <th width="150">作曲</th>
+    <td><%= @song.composer %></td>
+  </tr>
+  <tr>
+    <th width="150">歌</th>
+    <td><%= @song.singer %></td>
+  </tr>
+  <tr>
+    <th width="150">表示回数</th>
+    <td><%= @song.counts %></td>
+  </tr>
+  <tr>
+    <th width="150">適合率</th>
+    <td><%= @song.tekigou %></td>
+  </tr>
+  <tr>
+    <th width="150">登録日時</th>
+    <td><%= @song.created_at.try(:strftime, "[ %Y / %m / %d ] | [ %H : %M ]") %></td>
+  </tr>
+</table>

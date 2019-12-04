@@ -1,0 +1,12 @@
+<% logger.progname = "views/shared" %>
+<% if obj.errors.present? %>
+<div id="errors">
+<% logger.error "ERROR発生" %>
+<h3>Error!</h3>
+<ul>
+  <% obj.errors.full_messages.each do |msg| %>
+<li><%= msg %></li>
+  <% end %>
+</ul>
+</div>
+<% end %>

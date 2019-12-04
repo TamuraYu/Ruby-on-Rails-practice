@@ -1,0 +1,9 @@
+<% logger.progname = "views/top" %>
+<% logger.info "index.htmlを読み込みました" %>
+
+<h2>Recent Announcement</h2> 
+<% @articles.each do |article| %>
+<h3><%= article.title %></h3>
+<p><%= truncate(article.body, length: 80) %>
+<%= link_to "Read more...", article %></p>
+<% end %>

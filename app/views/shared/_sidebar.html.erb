@@ -1,0 +1,32 @@
+<%= render "shared/login_form" unless current_user %>
+
+<h2>Recent Announcement</h2>
+<ul>
+  <% Article.sidebar_articles(current_user, 5).each do |article| %>
+    <li><%= link_to article.title, article %></li>
+  <% end %>
+</ul>
+
+<h2>Recent Search songs</h2>
+<% if current_user then%>
+<% @user = User.find(current_user.id) %>
+  <ul>
+    <% @song = Song.find_by(id: @user.recent1) %>
+    <li><%= @song != nil ? (link_to @song.song_title, song_path(@user.recent1)) : "削除されました" %></li>
+
+    <% @song = Song.find_by(id: @user.recent2) %>
+    <li><%= @song != nil ? (link_to @song.song_title, song_path(@user.recent2)) : "削除されました" %></li>
+
+    <% @song = Song.find_by(id: @user.recent3) %>
+    <li><%= @song != nil ? (link_to @song.song_title, song_path(@user.recent3)) : "削除されました" %></li>
+
+    <% @song = Song.find_by(id: @user.recent4) %>
+    <li><%= @song != nil ? (link_to @song.song_title, song_path(@user.recent4)) : "削除されました" %></li>
+
+    <% @song = Song.find_by(id: @user.recent5) %>
+    <li><%= @song != nil ? (link_to @song.song_title, song_path(@user.recent5)) : "削除されました" %></li>
+
+  </ul>
+<% elsif %>
+  ログインしてください!<br>
+<% end %>

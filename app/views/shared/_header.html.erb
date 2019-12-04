@@ -1,0 +1,23 @@
+<h1> 特別研究用サイト </h1>
+
+<% if current_user %>
+<p class="user">
+<%= link_to current_user.user_name + "さん", :account %> |
+<%= link_to "logout", :session,
+  method: :delete, data: { confirm: "Are you sure you want to logout?" } %>
+</p>
+<% end %>
+
+<div class="menubar">
+<%= menu_link_to "TOP", root_path %>
+  &nbsp; | &nbsp; <%= menu_link_to "Announcement", :articles %>
+  <% if current_user %>
+  &nbsp; | &nbsp; <%= menu_link_to "For Beginner", :forbeginner %>
+  &nbsp; | &nbsp; <%= menu_link_to "My Page", :account %>
+  &nbsp; | &nbsp; <%= menu_link_to "Search", :search %>
+  <% end %>
+  <% if admin_user == 1 %>
+  &nbsp; | &nbsp; <%= menu_link_to "Admin Only", :admin %>
+  &nbsp; | &nbsp; <%= menu_link_to "Other & Test Page", "#" %>
+  <% end %>
+</div>

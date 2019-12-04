@@ -1,0 +1,15 @@
+<% logger.progname = "views/search" %>
+<% logger.info "treasure.htmlを読み込みました" %>
+
+<% @page_title = @song.song_title %>
+
+<h1><%= @page_title %></h1>
+
+<%= @url.html_safe %>
+
+<h2>評価入力</h2>
+
+<%= form_for @song do |form| %>
+<%= render "form", form: form %>
+<p><%= form.submit "Send" %></p>
+<% end %>

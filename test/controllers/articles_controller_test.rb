@@ -1,0 +1,73 @@
+require 'test_helper'
+
+class ArticlesControllerTest < ActionController::TestCase
+  def setup
+    login_as("yu5")
+  end
+
+  test "index" do
+    logout
+    5.times { FactoryGirl.create(:article) }
+    get :index
+    assert_response :success
+    assert_equal 5, assigns(:articles).count
+  end
+  
+  test "show" do
+    logout
+    article = FactoryGirl.create(:article, expired_at: nil)
+    get :show, params: { id: article.id }
+    assert_response :success
+  end
+  
+  test "new" do
+    get :new
+    assert_response :success
+  end
+  
+  test "new before login" do
+    logout
+    assert_raise(ApplicationController::Forbidden) { get :new }
+  end
+
+  test "edit" do
+    article = FactoryGirl.create(:article)
+    get :edit, params: { id: article.id }
+    assert_response :success
+  end
+  
+  test "create" do
+    post :create, params: { article: FactoryGirl.attributes_for(:article) }
+    article = Article.order(:id).last
+    assert_redirected_to article
+  end
+
+  test "update" do
+    article = FactoryGirl.create(:article)
+    patch :update, params: { id: article.id }, params: { article: FactoryGirl.attributes_for(:article) }
+    assert_redirected_to article
+  end
+
+  test "fail to create" do
+    attrs = FactoryGirl.attributes_for(:article, title: "")
+    post :create, params: {article: attrs}
+    assert_response :success
+    assert_template "new"
+  end
+
+  test "fail to update" do
+    attrs = FactoryGirl.attributes_for(:article, body: "")
+    article = FactoryGirl.create(:article)
+    patch :update, params: {id: article.id }, params: { article: attrs }
+    assert_response :success
+    assert_template "edit"
+  end
+
+  test "destroy" do
+    article = FactoryGirl.create(:article)
+    delete :destroy, params: { id: article.id }
+    assert_redirected_to :articles
+    assert_raises(ActiveRecord::RecordNotFound) {
+      Article.find(article.id) }
+  end
+end

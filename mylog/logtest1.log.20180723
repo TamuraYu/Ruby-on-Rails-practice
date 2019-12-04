@@ -1,0 +1,505 @@
+# Logfile created on 2018-07-23 22:22:10 +0900 by logger.rb/61378
+[0;90;49mINFO   [0m | [0;90;49mNO PROGNAME         [0m | [0;90;49m2018-07-23 22:22:10 +0900[0m | [0;90;49mStarted GET "/" for 127.0.0.1 at 2018-07-23 22:22:10 +0900[0m 
+[0;90;49mINFO   [0m | [0;90;49mNO PROGNAME         [0m | [0;90;49m2018-07-23 22:22:10 +0900[0m | [0;90;49mProcessing by TopController#index as HTML[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/top            [0m | [0;90;49m2018-07-23 22:22:10 +0900[0m | [0;90;49mindex起動[0m 
+[0;33;49mWARN   [0m | [0;33;49mctrl/top            [0m | 2018-07-23 22:22:10 +0900 | [0;33;49mCreating scope :open. Overwriting existing method Article.open.[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:10 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:10 +0900[0m | [0;90;49m  Rendering top/index.html.erb within layouts/application[0m 
+[0;90;49mINFO   [0m | [0;90;49mviews/top           [0m | [0;90;49m2018-07-23 22:22:10 +0900[0m | [0;90;49mindex.htmlを読み込みました[0m 
+[0;90;49mINFO   [0m | [0;90;49mviews/top           [0m | [0;90;49m2018-07-23 22:22:10 +0900[0m | [0;90;49m  Rendered top/index.html.erb within layouts/application (22.6ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49m  Rendered shared/_header.html.erb (18.9ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49m  Rendered shared/_sidebar.html.erb (93.3ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49m  Rendered shared/_footer.html.erb (1.2ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49mCompleted 200 OK in 687ms (Views: 548.7ms | ActiveRecord: 21.3ms)
+
+[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49mStarted GET "/assets/common.self-552f8eeb0a079e768de4daa3115bf5867965951e7006cf19ea68871aa38d5d6a.css?body=1" for 127.0.0.1 at 2018-07-23 22:22:11 +0900[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49mStarted GET "/assets/errors.self-b2c11599dc797b43c5a74ff4f3a62aef2420bfdfda047e46cd4c6908c10a1f5e.css?body=1" for 127.0.0.1 at 2018-07-23 22:22:11 +0900[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49mStarted GET "/assets/pagination.self-39a397badc4514c37e05d1744b26e23883b5a64cc18e49eaea605c3648949cb2.css?body=1" for 127.0.0.1 at 2018-07-23 22:22:11 +0900[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49mStarted GET "/assets/table.self-e25cd796023c278de1f826404066ae45431b9b6c116978525aa7e5d7182a3683.css?body=1" for 127.0.0.1 at 2018-07-23 22:22:11 +0900[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49mStarted GET "/assets/rails-ujs.self-551fbd47b981dacbb84a270f9123074caf39eb72aaf6f478ab597c6f81435e4b.js?body=1" for 127.0.0.1 at 2018-07-23 22:22:11 +0900[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49mStarted GET "/assets/flash.self-22ea1a37459660af25028eeafc597fb6ba9100ef3329d94a9e408c83aea2cf85.css?body=1" for 127.0.0.1 at 2018-07-23 22:22:11 +0900[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49mStarted GET "/assets/activestorage.self-6e8d967adecc8b2a7259df0f51ef5b6f171c33267c7d149a474beccd90c68697.js?body=1" for 127.0.0.1 at 2018-07-23 22:22:11 +0900[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49mStarted GET "/assets/turbolinks.self-2db6ec539b9190f75e1d477b305df53d12904d5cafdd47c7ffd91ba25cbec128.js?body=1" for 127.0.0.1 at 2018-07-23 22:22:11 +0900[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49mStarted GET "/assets/cable.self-8484513823f404ed0c0f039f75243bfdede7af7919dda65f2e66391252443ce9.js?body=1" for 127.0.0.1 at 2018-07-23 22:22:11 +0900[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49mStarted GET "/assets/action_cable.self-69fddfcddf4fdef9828648f9330d6ce108b93b82b0b8d3affffc59a114853451.js?body=1" for 127.0.0.1 at 2018-07-23 22:22:11 +0900[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49mStarted GET "/assets/utility.self-a9dc7ba6f59f8c2890019a9175e722d87f289a606924d1a87f00d950eb0e9f9b.js?body=1" for 127.0.0.1 at 2018-07-23 22:22:11 +0900[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:11 +0900[0m | [0;90;49mStarted GET "/assets/application.self-545c38b0922de19734fbffde62792c37c2aef6a3216cfa472449173165220f7d.js?body=1" for 127.0.0.1 at 2018-07-23 22:22:11 +0900[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:12 +0900[0m | [0;90;49mStarted GET "/assets/application.self-aef9e0fa88341c3da36f1f7465aa79e1a2fc84e7395c842e8862c34a47cf5ae1.css?body=1" for 127.0.0.1 at 2018-07-23 22:22:12 +0900[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:51 +0900[0m | [0;90;49mStarted GET "/admin" for 127.0.0.1 at 2018-07-23 22:22:51 +0900[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:51 +0900[0m | [0;90;49mProcessing by AdminController#top as HTML[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:51 +0900[0m | [0;90;49madmin_required起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:51 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:51 +0900[0m | [0;90;49m  Rendering admin/top.html.erb within layouts/application[0m 
+[0;90;49mINFO   [0m | [0;90;49mviews/admin         [0m | [0;90;49m2018-07-23 22:22:51 +0900[0m | [0;90;49mtop.htmlを読み込みました[0m 
+[0;90;49mINFO   [0m | [0;90;49mviews/admin         [0m | [0;90;49m2018-07-23 22:22:51 +0900[0m | [0;90;49m  Rendered admin/top.html.erb within layouts/application (1.5ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:51 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:51 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:51 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:51 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:51 +0900[0m | [0;90;49m  Rendered shared/_header.html.erb (11.0ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:51 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:51 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:51 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:51 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:51 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:51 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:51 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:51 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:51 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:51 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:51 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:51 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:51 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:51 +0900[0m | [0;90;49m  Rendered shared/_sidebar.html.erb (31.8ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:51 +0900[0m | [0;90;49m  Rendered shared/_footer.html.erb (1.4ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:51 +0900[0m | [0;90;49mCompleted 200 OK in 110ms (Views: 97.3ms | ActiveRecord: 4.6ms)
+
+[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49mStarted GET "/songs" for 127.0.0.1 at 2018-07-23 22:22:52 +0900[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49mProcessing by SongsController#index as HTML[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49mlogin_required起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/songs          [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49mindex起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/songs          [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49m  Rendering songs/index.html.erb within layouts/application[0m 
+[0;90;49mINFO   [0m | [0;90;49mviews/songs         [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49mindex.htmlを読み込みました[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49m  Rendered songs/index.html.erb within layouts/application (22.7ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49m  Rendered shared/_header.html.erb (20.5ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49m  Rendered shared/_sidebar.html.erb (37.0ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49m  Rendered shared/_footer.html.erb (1.6ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:52 +0900[0m | [0;90;49mCompleted 200 OK in 191ms (Views: 172.2ms | ActiveRecord: 6.8ms)
+
+[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:55 +0900[0m | [0;90;49mStarted GET "/songs/new" for 127.0.0.1 at 2018-07-23 22:22:55 +0900[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:55 +0900[0m | [0;90;49mProcessing by SongsController#new as HTML[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:55 +0900[0m | [0;90;49mlogin_required起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:55 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/songs          [0m | [0;90;49m2018-07-23 22:22:55 +0900[0m | [0;90;49mnew起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:55 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:55 +0900[0m | [0;90;49m新規登録(new)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:55 +0900[0m | [0;90;49m  Rendering songs/new.html.erb within layouts/application[0m 
+[0;90;49mINFO   [0m | [0;90;49mviews/songs         [0m | [0;90;49m2018-07-23 22:22:55 +0900[0m | [0;90;49mnew.htmlを読み込みました[0m 
+[0;90;49mINFO   [0m | [0;90;49mviews/shared        [0m | [0;90;49m2018-07-23 22:22:55 +0900[0m | [0;90;49m  Rendered shared/_errors.html.erb (0.5ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mviews/shared        [0m | [0;90;49m2018-07-23 22:22:55 +0900[0m | [0;90;49m  Rendered songs/_form.html.erb (13.6ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mviews/shared        [0m | [0;90;49m2018-07-23 22:22:55 +0900[0m | [0;90;49m  Rendered songs/new.html.erb within layouts/application (25.1ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:56 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:56 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:56 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:56 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:56 +0900[0m | [0;90;49m  Rendered shared/_header.html.erb (12.1ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:56 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:56 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:56 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:56 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:56 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:56 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:56 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:56 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:56 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:56 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:56 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:56 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:56 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:56 +0900[0m | [0;90;49m  Rendered shared/_sidebar.html.erb (44.1ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:56 +0900[0m | [0;90;49m  Rendered shared/_footer.html.erb (0.6ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:22:56 +0900[0m | [0;90;49mCompleted 200 OK in 155ms (Views: 143.7ms | ActiveRecord: 4.6ms)
+
+[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:03 +0900[0m | [0;90;49mStarted POST "/songs" for 127.0.0.1 at 2018-07-23 22:23:03 +0900[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:03 +0900[0m | [0;90;49mProcessing by SongsController#create as HTML[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:03 +0900[0m | [0;90;49m  Parameters: {"utf8"=>"✓", "authenticity_token"=>"HFryFx89i6Clihl0DLJ8XmqgkgIkceAyss1diA6h1HLneF6oGM9Bff+45vmvkiax6tiPFiHRZY+PoUPJ/wsHMQ==", "song"=>{"song_title"=>"a", "composer"=>"b", "singer"=>"c", "song_url"=>"d"}, "commit"=>"Create Song"}[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:03 +0900[0m | [0;90;49mlogin_required起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:03 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/songs          [0m | [0;90;49m2018-07-23 22:23:03 +0900[0m | [0;90;49mcreate起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:03 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:03 +0900[0m | [0;90;49m新規登録(create)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:03 +0900[0m | [0;90;49mCompleted 500 Internal Server Error in 15ms (ActiveRecord: 3.8ms)
+
+[0m 
+[0;37;41mFATAL  [0m | [0;31;49mctrl/application    [0m | 2018-07-23 22:23:03 +0900 | [0;37;41m  [0m 
+[0;37;41mFATAL  [0m | [0;31;49mctrl/application    [0m | 2018-07-23 22:23:03 +0900 | [0;37;41mActiveRecord::NotNullViolation (SQLite3::ConstraintException: NOT NULL constraint failed: songs.song_url: INSERT INTO "songs" ("song_title", "created_at", "updated_at", "composer", "singer") VALUES (?, ?, ?, ?, ?)):[0m 
+[0;37;41mFATAL  [0m | [0;31;49mctrl/application    [0m | 2018-07-23 22:23:03 +0900 | [0;37;41m  [0m 
+[0;37;41mFATAL  [0m | [0;31;49mctrl/application    [0m | 2018-07-23 22:23:03 +0900 | [0;37;41mapp/controllers/songs_controller.rb:44:in `create'[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:03 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:03 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:03 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (5.3ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:03 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:03 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.8ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:03 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:03 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (3.4ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:03 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (210.2ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:03 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/index.html.erb[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:04 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/_markup.html.erb (0.8ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:04 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/console.js.erb within layouts/javascript[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:04 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:04 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:04 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:04 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.6ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:04 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/style.css.erb within layouts/inlined_string[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:04 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:04 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/console.js.erb within layouts/javascript (172.2ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:04 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/main.js.erb within layouts/javascript[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:04 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.8ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:04 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/error_page.js.erb within layouts/javascript[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:04 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:23:04 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/index.html.erb (400.3ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mNO PROGNAME         [0m | [0;90;49m2018-07-23 22:32:06 +0900[0m | [0;90;49mMigrating to ModifySongs2 (20180723132924)[0m 
+[0;33;49mWARN   [0m | [0;33;49mNO PROGNAME         [0m | 2018-07-23 22:32:19 +0900 | [0;33;49mCreating scope :open. Overwriting existing method Article.open.[0m 
+[0;90;49mINFO   [0m | [0;90;49mNO PROGNAME         [0m | [0;90;49m2018-07-23 22:37:56 +0900[0m | [0;90;49mStarted GET "/" for 127.0.0.1 at 2018-07-23 22:37:56 +0900[0m 
+[0;90;49mINFO   [0m | [0;90;49mNO PROGNAME         [0m | [0;90;49m2018-07-23 22:37:56 +0900[0m | [0;90;49mProcessing by TopController#index as HTML[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/top            [0m | [0;90;49m2018-07-23 22:37:56 +0900[0m | [0;90;49mindex起動[0m 
+[0;33;49mWARN   [0m | [0;33;49mctrl/top            [0m | 2018-07-23 22:37:56 +0900 | [0;33;49mCreating scope :open. Overwriting existing method Article.open.[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:37:56 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:37:57 +0900[0m | [0;90;49m  Rendering top/index.html.erb within layouts/application[0m 
+[0;90;49mINFO   [0m | [0;90;49mviews/top           [0m | [0;90;49m2018-07-23 22:37:57 +0900[0m | [0;90;49mindex.htmlを読み込みました[0m 
+[0;90;49mINFO   [0m | [0;90;49mviews/top           [0m | [0;90;49m2018-07-23 22:37:57 +0900[0m | [0;90;49m  Rendered top/index.html.erb within layouts/application (26.5ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:37:57 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:37:57 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:37:57 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:37:57 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:37:57 +0900[0m | [0;90;49m  Rendered shared/_header.html.erb (22.6ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:37:57 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:37:57 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:37:57 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:37:57 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:37:57 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:37:57 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:37:57 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:37:57 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:37:57 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:37:57 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:37:57 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:37:57 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:37:57 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:37:57 +0900[0m | [0;90;49m  Rendered shared/_sidebar.html.erb (221.2ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:37:57 +0900[0m | [0;90;49m  Rendered shared/_footer.html.erb (1.0ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:37:57 +0900[0m | [0;90;49mCompleted 200 OK in 889ms (Views: 695.6ms | ActiveRecord: 20.9ms)
+
+[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:37:58 +0900[0m | [0;90;49mStarted GET "/assets/common.self-552f8eeb0a079e768de4daa3115bf5867965951e7006cf19ea68871aa38d5d6a.css?body=1" for 127.0.0.1 at 2018-07-23 22:37:58 +0900[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:37:58 +0900[0m | [0;90;49mStarted GET "/assets/pagination.self-39a397badc4514c37e05d1744b26e23883b5a64cc18e49eaea605c3648949cb2.css?body=1" for 127.0.0.1 at 2018-07-23 22:37:58 +0900[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:01 +0900[0m | [0;90;49mStarted GET "/admin" for 127.0.0.1 at 2018-07-23 22:38:01 +0900[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:01 +0900[0m | [0;90;49mProcessing by AdminController#top as HTML[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:01 +0900[0m | [0;90;49madmin_required起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:01 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:01 +0900[0m | [0;90;49m  Rendering admin/top.html.erb within layouts/application[0m 
+[0;90;49mINFO   [0m | [0;90;49mviews/admin         [0m | [0;90;49m2018-07-23 22:38:01 +0900[0m | [0;90;49mtop.htmlを読み込みました[0m 
+[0;90;49mINFO   [0m | [0;90;49mviews/admin         [0m | [0;90;49m2018-07-23 22:38:01 +0900[0m | [0;90;49m  Rendered admin/top.html.erb within layouts/application (2.3ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:01 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:01 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:01 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:01 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:01 +0900[0m | [0;90;49m  Rendered shared/_header.html.erb (14.2ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:01 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:01 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:01 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:01 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:01 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:01 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:01 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:01 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:01 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:01 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:01 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:01 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:01 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:01 +0900[0m | [0;90;49m  Rendered shared/_sidebar.html.erb (34.7ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:01 +0900[0m | [0;90;49m  Rendered shared/_footer.html.erb (0.5ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:01 +0900[0m | [0;90;49mCompleted 200 OK in 153ms (Views: 137.5ms | ActiveRecord: 4.7ms)
+
+[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:02 +0900[0m | [0;90;49mStarted GET "/songs" for 127.0.0.1 at 2018-07-23 22:38:02 +0900[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:02 +0900[0m | [0;90;49mProcessing by SongsController#index as HTML[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:02 +0900[0m | [0;90;49mlogin_required起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:02 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/songs          [0m | [0;90;49m2018-07-23 22:38:02 +0900[0m | [0;90;49mindex起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/songs          [0m | [0;90;49m2018-07-23 22:38:02 +0900[0m | [0;90;49m  Rendering songs/index.html.erb within layouts/application[0m 
+[0;90;49mINFO   [0m | [0;90;49mviews/songs         [0m | [0;90;49m2018-07-23 22:38:02 +0900[0m | [0;90;49mindex.htmlを読み込みました[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:02 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:02 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:02 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:02 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:02 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:02 +0900[0m | [0;90;49m  Rendered songs/index.html.erb within layouts/application (24.6ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:03 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:03 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:03 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:03 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:03 +0900[0m | [0;90;49m  Rendered shared/_header.html.erb (17.5ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:03 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:03 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:03 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:03 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:03 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:03 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:03 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:03 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:03 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:03 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:03 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:03 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:03 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:03 +0900[0m | [0;90;49m  Rendered shared/_sidebar.html.erb (39.7ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:03 +0900[0m | [0;90;49m  Rendered shared/_footer.html.erb (1.1ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:03 +0900[0m | [0;90;49mCompleted 200 OK in 209ms (Views: 191.7ms | ActiveRecord: 6.9ms)
+
+[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49mStarted GET "/songs/new" for 127.0.0.1 at 2018-07-23 22:38:04 +0900[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49mProcessing by SongsController#new as HTML[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49mlogin_required起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/songs          [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49mnew起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49m新規登録(new)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49m  Rendering songs/new.html.erb within layouts/application[0m 
+[0;90;49mINFO   [0m | [0;90;49mviews/songs         [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49mnew.htmlを読み込みました[0m 
+[0;90;49mINFO   [0m | [0;90;49mviews/shared        [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49m  Rendered shared/_errors.html.erb (2.6ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mviews/shared        [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49m  Rendered songs/_form.html.erb (37.3ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mviews/shared        [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49m  Rendered songs/new.html.erb within layouts/application (43.1ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49m  Rendered shared/_header.html.erb (19.6ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49m  Rendered shared/_sidebar.html.erb (38.0ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49m  Rendered shared/_footer.html.erb (0.7ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:04 +0900[0m | [0;90;49mCompleted 200 OK in 207ms (Views: 191.1ms | ActiveRecord: 5.8ms)
+
+[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:15 +0900[0m | [0;90;49mStarted POST "/songs" for 127.0.0.1 at 2018-07-23 22:38:15 +0900[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:15 +0900[0m | [0;90;49mProcessing by SongsController#create as HTML[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:15 +0900[0m | [0;90;49m  Parameters: {"utf8"=>"✓", "authenticity_token"=>"LVkeXnSw6X7feUczAfWYaNPdcmoZy+6alR6baOGvZ1fWe7Lhc0Ijo4VLuL6i1cKHU6VvfhxrayeocoUpEAW0FA==", "song"=>{"song_title"=>"1", "composer"=>"2", "singer"=>"3", "song_url"=>"4", "created_at(1i)"=>"2018", "created_at(2i)"=>"7", "created_at(3i)"=>"23", "created_at(4i)"=>"22", "created_at(5i)"=>"38"}, "commit"=>"Create Song"}[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:15 +0900[0m | [0;90;49mlogin_required起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:15 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/songs          [0m | [0;90;49m2018-07-23 22:38:15 +0900[0m | [0;90;49mcreate起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:15 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:15 +0900[0m | [0;90;49m新規登録(create)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:15 +0900[0m | [0;90;49mCompleted 500 Internal Server Error in 15ms (ActiveRecord: 3.7ms)
+
+[0m 
+[0;37;41mFATAL  [0m | [0;31;49mctrl/application    [0m | 2018-07-23 22:38:15 +0900 | [0;37;41m  [0m 
+[0;37;41mFATAL  [0m | [0;31;49mctrl/application    [0m | 2018-07-23 22:38:15 +0900 | [0;37;41mActiveRecord::NotNullViolation (SQLite3::ConstraintException: NOT NULL constraint failed: songs.song_url: INSERT INTO "songs" ("song_title", "created_at", "composer", "singer") VALUES (?, ?, ?, ?)):[0m 
+[0;37;41mFATAL  [0m | [0;31;49mctrl/application    [0m | 2018-07-23 22:38:15 +0900 | [0;37;41m  [0m 
+[0;37;41mFATAL  [0m | [0;31;49mctrl/application    [0m | 2018-07-23 22:38:15 +0900 | [0;37;41mapp/controllers/songs_controller.rb:44:in `create'[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:15 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:15 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:15 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (8.5ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:15 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:15 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.2ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:15 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:15 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (5.9ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:15 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (266.3ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:15 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/index.html.erb[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:15 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/_markup.html.erb (1.9ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:15 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/console.js.erb within layouts/javascript[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:15 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:15 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:16 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:16 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.7ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:16 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/style.css.erb within layouts/inlined_string[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:16 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (1.3ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:16 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/console.js.erb within layouts/javascript (237.2ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:16 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/main.js.erb within layouts/javascript[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:16 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:16 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/error_page.js.erb within layouts/javascript[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:16 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.5ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:38:16 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/index.html.erb (521.9ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49mStarted GET "/songs/new" for 127.0.0.1 at 2018-07-23 22:47:11 +0900[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49mProcessing by SongsController#new as HTML[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49mlogin_required起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/songs          [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49mnew起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49m新規登録(new)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49m  Rendering songs/new.html.erb within layouts/application[0m 
+[0;90;49mINFO   [0m | [0;90;49mviews/songs         [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49mnew.htmlを読み込みました[0m 
+[0;90;49mINFO   [0m | [0;90;49mviews/shared        [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49m  Rendered shared/_errors.html.erb (1.4ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mviews/shared        [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49m  Rendered songs/_form.html.erb (11.8ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mviews/shared        [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49m  Rendered songs/new.html.erb within layouts/application (18.8ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49m  Rendered shared/_header.html.erb (13.5ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49m  Rendered shared/_sidebar.html.erb (34.8ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49m  Rendered shared/_footer.html.erb (1.2ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:11 +0900[0m | [0;90;49mCompleted 200 OK in 174ms (Views: 153.4ms | ActiveRecord: 5.3ms)
+
+[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49mStarted POST "/songs" for 127.0.0.1 at 2018-07-23 22:47:27 +0900[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49mProcessing by SongsController#create as HTML[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49m  Parameters: {"utf8"=>"✓", "authenticity_token"=>"6pdfLWOtuRP0lkGhJmStVXbyxH6saomA7tW4r6OzrWQLfrFPePDsiLwWPuXEG6xWv+FMHPzdh3HTaCnS+ZixLw==", "song"=>{"song_title"=>"a\\", "composer"=>"w", "singer"=>"r", "song_url"=>"y", "created_at(1i)"=>"2018", "created_at(2i)"=>"7", "created_at(3i)"=>"23", "created_at(4i)"=>"22", "created_at(5i)"=>"47"}, "commit"=>"Create Song"}[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49mlogin_required起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/songs          [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49mcreate起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49m新規登録(create)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49mCompleted 500 Internal Server Error in 5ms (ActiveRecord: 1.0ms)
+
+[0m 
+[0;37;41mFATAL  [0m | [0;31;49mctrl/application    [0m | 2018-07-23 22:47:27 +0900 | [0;37;41m  [0m 
+[0;37;41mFATAL  [0m | [0;31;49mctrl/application    [0m | 2018-07-23 22:47:27 +0900 | [0;37;41mActiveRecord::NotNullViolation (SQLite3::ConstraintException: NOT NULL constraint failed: songs.song_url: INSERT INTO "songs" ("song_title", "created_at", "composer", "singer") VALUES (?, ?, ?, ?)):[0m 
+[0;37;41mFATAL  [0m | [0;31;49mctrl/application    [0m | 2018-07-23 22:47:27 +0900 | [0;37;41m  [0m 
+[0;37;41mFATAL  [0m | [0;31;49mctrl/application    [0m | 2018-07-23 22:47:27 +0900 | [0;37;41mapp/controllers/songs_controller.rb:44:in `create'[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (4.5ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.4ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (198.7ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/index.html.erb[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/_markup.html.erb (0.9ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/console.js.erb within layouts/javascript[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (1.0ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/style.css.erb within layouts/inlined_string[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.7ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/console.js.erb within layouts/javascript (176.3ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/main.js.erb within layouts/javascript[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/error_page.js.erb within layouts/javascript[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.7ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:47:27 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/index.html.erb (395.4ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:41 +0900[0m | [0;90;49mStarted GET "/songs/new" for 127.0.0.1 at 2018-07-23 22:49:41 +0900[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49mProcessing by SongsController#new as HTML[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49mlogin_required起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/songs          [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49mnew起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49m新規登録(new)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49m  Rendering songs/new.html.erb within layouts/application[0m 
+[0;90;49mINFO   [0m | [0;90;49mviews/songs         [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49mnew.htmlを読み込みました[0m 
+[0;90;49mINFO   [0m | [0;90;49mviews/shared        [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49m  Rendered shared/_errors.html.erb (1.0ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mviews/shared        [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49m  Rendered songs/_form.html.erb (13.5ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mviews/shared        [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49m  Rendered songs/new.html.erb within layouts/application (24.0ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49m  Rendered shared/_header.html.erb (16.7ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;33;49mWARN   [0m | [0;33;49mctrl/application    [0m | 2018-07-23 22:49:42 +0900 | [0;33;49mCreating scope :open. Overwriting existing method Article.open.[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49m  Rendered shared/_sidebar.html.erb (65.7ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49m  Rendered shared/_footer.html.erb (2.0ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:42 +0900[0m | [0;90;49mCompleted 200 OK in 298ms (Views: 179.6ms | ActiveRecord: 9.6ms)
+
+[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:48 +0900[0m | [0;90;49mStarted POST "/songs" for 127.0.0.1 at 2018-07-23 22:49:48 +0900[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:48 +0900[0m | [0;90;49mProcessing by SongsController#create as HTML[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:48 +0900[0m | [0;90;49m  Parameters: {"utf8"=>"✓", "authenticity_token"=>"INC1EzpsAMCD/LVsRvbndGtIBAueHMjbkGzIka5tAwnBOVtxITFVW8t8yiikieZ3oluMac6rxiqt0Vns9EYfQg==", "song"=>{"song_title"=>"a", "composer"=>"w", "singer"=>"r", "song_url"=>"y", "created_at(1i)"=>"2018", "created_at(2i)"=>"7", "created_at(3i)"=>"23", "created_at(4i)"=>"22", "created_at(5i)"=>"47"}, "commit"=>"Create Song"}[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:48 +0900[0m | [0;90;49mlogin_required起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:48 +0900[0m | [0;90;49mcurrenr_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/songs          [0m | [0;90;49m2018-07-23 22:49:48 +0900[0m | [0;90;49mcreate起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:48 +0900[0m | [0;90;49madmin_user起動[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:48 +0900[0m | [0;90;49m新規登録(create)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:48 +0900[0m | [0;90;49mCompleted 500 Internal Server Error in 5ms (ActiveRecord: 1.0ms)
+
+[0m 
+[0;37;41mFATAL  [0m | [0;31;49mctrl/application    [0m | 2018-07-23 22:49:48 +0900 | [0;37;41m  [0m 
+[0;37;41mFATAL  [0m | [0;31;49mctrl/application    [0m | 2018-07-23 22:49:48 +0900 | [0;37;41mActiveRecord::NotNullViolation (SQLite3::ConstraintException: NOT NULL constraint failed: songs.song_url: INSERT INTO "songs" ("song_title", "created_at", "composer", "singer") VALUES (?, ?, ?, ?)):[0m 
+[0;37;41mFATAL  [0m | [0;31;49mctrl/application    [0m | 2018-07-23 22:49:48 +0900 | [0;37;41m  [0m 
+[0;37;41mFATAL  [0m | [0;31;49mctrl/application    [0m | 2018-07-23 22:49:48 +0900 | [0;37;41mapp/controllers/songs_controller.rb:44:in `create'[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:48 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:48 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:48 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (5.7ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:48 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:48 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.2ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:48 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:48 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.3ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:48 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (190.0ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:49 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/index.html.erb[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:49 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/_markup.html.erb (0.9ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:49 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/console.js.erb within layouts/javascript[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:49 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:49 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.8ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:49 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:49 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.7ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:49 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/style.css.erb within layouts/inlined_string[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:49 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.8ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:49 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/console.js.erb within layouts/javascript (169.6ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:49 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/main.js.erb within layouts/javascript[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:49 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.8ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:49 +0900[0m | [0;90;49m  Rendering /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/error_page.js.erb within layouts/javascript[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:49 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.7ms)[0m 
+[0;90;49mINFO   [0m | [0;90;49mctrl/application    [0m | [0;90;49m2018-07-23 22:49:49 +0900[0m | [0;90;49m  Rendered /Users/tamurayuu/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/web-console-3.6.2/lib/web_console/templates/index.html.erb (374.2ms)[0m 

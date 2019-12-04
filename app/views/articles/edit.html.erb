@@ -1,0 +1,13 @@
+<% logger.progname = "views/articles" %>
+<% logger.info "edit.htmlを読み込みました" %>
+
+<% @page_title = "Edit announcement" %>
+
+<h1><%= @page_title %></h1>
+
+<p><%= link_to "Back to Detail", @article %></p>
+<% logger.info "#form_forの直前" %>
+<%= form_for @article do |form| %>
+<%= render "form", form: form %>
+<p><%= form.submit %></p>
+<% end %>

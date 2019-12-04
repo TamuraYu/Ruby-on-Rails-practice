@@ -1,0 +1,219 @@
+<%= render "shared/errors", obj: @song %>
+<table class="attr2">
+  <tr>
+    <th align="right">静か</th>
+    <td>
+    -|
+      <%= form.radio_button :sizuka, 0 %>
+      <%= form.label :sizuka_0, "|" %>
+      <%= form.radio_button :sizuka, 1 %>
+      <%= form.label :sizuka_1, "|" %>
+      <%= form.radio_button :sizuka, 2 %>
+      <%= form.label :sizuka_2, "|" %>
+      <%= form.radio_button :sizuka, 3 %>
+      <%= form.label :sizuka_3, "|" %>
+      <%= form.radio_button :sizuka, 4 %>
+      <%= form.label :sizuka_4, "|" %>
+      -
+    </td>
+    <th align="left">激しい</th>
+  </tr>
+    <tr>
+    <th align="right">ゆっくりした</th>
+    <td>
+    -|
+      <%= form.radio_button :yukkuri, 0 %>
+      <%= form.label :yukkuri_0, "|" %>
+      <%= form.radio_button :yukkuri, 1 %>
+      <%= form.label :yukkuri_1, "|" %>
+      <%= form.radio_button :yukkuri, 2 %>
+      <%= form.label :yukkuri_2, "|" %>
+      <%= form.radio_button :yukkuri, 3 %>
+      <%= form.label :yukkuri_3, "|" %>
+      <%= form.radio_button :yukkuri, 4 %>
+      <%= form.label :yukkuri_4, "|" %>
+      -
+    </td>
+    <th align="left">速い</th>
+  </tr>
+    <tr>
+    <th align="right">人工的な</th>
+    <td>
+    -|
+      <%= form.radio_button :zinkou, 0 %>
+      <%= form.label :zinkou_0, "|" %>
+      <%= form.radio_button :zinkou, 1 %>
+      <%= form.label :zinkou_1, "|" %>
+      <%= form.radio_button :zinkou, 2 %>
+      <%= form.label :zinkou_2, "|" %>
+      <%= form.radio_button :zinkou, 3 %>
+      <%= form.label :zinkou_3, "|" %>
+      <%= form.radio_button :zinkou, 4 %>
+      <%= form.label :zinkou_4, "|" %>
+      -
+    </td>
+    <th align="left">自然な</th>
+  </tr>
+    <tr>
+    <th align="right">透き通った</th>
+    <td>
+    -|
+      <%= form.radio_button :sukitoru, 0 %>
+      <%= form.label :sukitoru_0, "|" %>
+      <%= form.radio_button :sukitoru, 1 %>
+      <%= form.label :sukitoru_1, "|" %>
+      <%= form.radio_button :sukitoru, 2 %>
+      <%= form.label :sukitoru_2, "|" %>
+      <%= form.radio_button :sukitoru, 3 %>
+      <%= form.label :sukitoru_3, "|" %>
+      <%= form.radio_button :sukitoru, 4 %>
+      <%= form.label :sukitoru_4, "|" %>
+      -
+    </td>
+    <th align="left">濁った</th>
+  </tr>
+    <tr>
+    <th align="right">単調な</th>
+    <td>
+    -|
+      <%= form.radio_button :tantyo, 0 %>
+      <%= form.label :tantyo_0, "|" %>
+      <%= form.radio_button :tantyo, 1 %>
+      <%= form.label :tantyo_1, "|" %>
+      <%= form.radio_button :tantyo, 2 %>
+      <%= form.label :tantyo_2, "|" %>
+      <%= form.radio_button :tantyo, 3 %>
+      <%= form.label :tantyo_3, "|" %>
+      <%= form.radio_button :tantyo, 4 %>
+      <%= form.label :tantyo_4, "|" %>
+      -
+    </td>
+    <th align="left">変化の多い</th>
+  </tr>
+    <tr>
+    <th align="right">明るい</th>
+    <td>
+    -|
+      <%= form.radio_button :akarui, 0 %>
+      <%= form.label :akarui_0, "|" %>
+      <%= form.radio_button :akarui, 1 %>
+      <%= form.label :akarui_1, "|" %>
+      <%= form.radio_button :akarui, 2 %>
+      <%= form.label :akarui_2, "|" %>
+      <%= form.radio_button :akarui, 3 %>
+      <%= form.label :akarui_3, "|" %>
+      <%= form.radio_button :akarui, 4 %>
+      <%= form.label :akarui_4, "|" %>
+      -
+    </td>
+    <th align="left">暗い</th>
+  </tr>
+    <tr>
+    <th align="right">新しい</th>
+    <td>
+    -|
+      <%= form.radio_button :atarashi, 0 %>
+      <%= form.label :atarashi_0, "|" %>
+      <%= form.radio_button :atarashi, 1 %>
+      <%= form.label :atarashi_1, "|" %>
+      <%= form.radio_button :atarashi, 2 %>
+      <%= form.label :atarashi_2, "|" %>
+      <%= form.radio_button :atarashi, 3 %>
+      <%= form.label :atarashi_3, "|" %>
+      <%= form.radio_button :atarashi, 4 %>
+      <%= form.label :atarashi_4, "|" %>
+      -
+    </td>
+    <th align="left">古い</th>
+  </tr>
+    <tr>
+    <th align="right">壮大な</th>
+    <td>
+    -|
+      <%= form.radio_button :sodai, 0 %>
+      <%= form.label :sodai_0, "|" %>
+      <%= form.radio_button :sodai, 1 %>
+      <%= form.label :sodai_1, "|" %>
+      <%= form.radio_button :sodai, 2 %>
+      <%= form.label :sodai_2, "|" %>
+      <%= form.radio_button :sodai, 3 %>
+      <%= form.label :sodai_3, "|" %>
+      <%= form.radio_button :sodai, 4 %>
+      <%= form.label :sodai_4, "|" %>
+      -
+    </td>
+    <th align="left">直線的な</th>
+  </tr>
+    <tr>
+    <th align="right">重厚な</th>
+    <td>
+    -|
+      <%= form.radio_button :juko, 0 %>
+      <%= form.label :juko_0, "|" %>
+      <%= form.radio_button :juko, 1 %>
+      <%= form.label :juko_1, "|" %>
+      <%= form.radio_button :juko, 2 %>
+      <%= form.label :juko_2, "|" %>
+      <%= form.radio_button :juko, 3 %>
+      <%= form.label :juko_3, "|" %>
+      <%= form.radio_button :juko, 4 %>
+      <%= form.label :juko_4, "|" %>
+      -
+    </td>
+    <th align="left">軽快な</th>
+  </tr>
+    <tr>
+    <th align="right">大胆な</th>
+    <td>
+    -|
+      <%= form.radio_button :daitan, 0 %>
+      <%= form.label :daitan_0, "|" %>
+      <%= form.radio_button :daitan, 1 %>
+      <%= form.label :daitan_1, "|" %>
+      <%= form.radio_button :daitan, 2 %>
+      <%= form.label :daitan_2, "|" %>
+      <%= form.radio_button :daitan, 3 %>
+      <%= form.label :daitan_3, "|" %>
+      <%= form.radio_button :daitan, 4 %>
+      <%= form.label :daitan_4, "|" %>
+      -
+    </td>
+    <th align="left">繊細な</th>
+  </tr>
+    <tr>
+    <th align="right">落ち着いた</th>
+    <td>
+    -|
+      <%= form.radio_button :otituita, 0 %>
+      <%= form.label :otituita_0, "|" %>
+      <%= form.radio_button :otituita, 1 %>
+      <%= form.label :otituita_1, "|" %>
+      <%= form.radio_button :otituita, 2 %>
+      <%= form.label :otituita_2, "|" %>
+      <%= form.radio_button :otituita, 3 %>
+      <%= form.label :otituita_3, "|" %>
+      <%= form.radio_button :otituita, 4 %>
+      <%= form.label :otituita_4, "|" %>
+      -
+    </td>
+    <th align="left">激しい</th>
+  </tr>
+    <tr>
+    <th align="right">ダイナミックな</th>
+    <td>
+    -|
+      <%= form.radio_button :dainamikku, 0 %>
+      <%= form.label :dainamikku_0, "|" %>
+      <%= form.radio_button :dainamikku, 1 %>
+      <%= form.label :dainamikku_1, "|" %>
+      <%= form.radio_button :dainamikku, 2 %>
+      <%= form.label :dainamikku_2, "|" %>
+      <%= form.radio_button :dainamikku, 3 %>
+      <%= form.label :dainamikku_3, "|" %>
+      <%= form.radio_button :dainamikku, 4 %>
+      <%= form.label :dainamikku_4, "|" %>
+      -
+    </td>
+    <th align="left">シンプルな</th>
+  </tr>
+</table>

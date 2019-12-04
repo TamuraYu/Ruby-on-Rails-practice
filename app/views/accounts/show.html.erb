@@ -1,0 +1,9 @@
+<% logger.progname = "views/accounts" %>
+<% logger.info "show.htmlを読み込みました" %>
+
+<% @page_title = "My page"%>
+<h1><%= @page_title %></h1>
+
+<p><%= link_to "Edit my account", :edit_account %></p>
+
+<%= render "users/body" %>
