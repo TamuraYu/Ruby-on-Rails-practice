@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+茨城工業高等専門学校　専攻科　特別研究（卒業研究）で作成したRuby on Railsのサイトです
 
-Things you may want to cover:
+研究で使う部分以外はモックアップだったり最後に示す技術書を参考にさせていただいています。
 
-* Ruby version
+本WEBアプリケーションはユーザの音楽嗜好を分析した上でDB上にある楽曲からユーザの嗜好に合った楽曲を提案するアプリケーションです。提案と同時にDB上の楽曲の分析も並行して行い、繰り返すたびにDB上のデータも更新されていきます。
 
-* System dependencies
+過学習を防ぐため、また分析を効率的に行うため進化計算に基づく操作を行っています。
 
-* Configuration
+すでに数曲がライブラリとして追加されていますが、ユーザによる追加も出来るようになっています。
 
-* Database creation
+ユーザの作成、ユーザデータの編集も可能です。
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+参考文献：
+黒田　努，佐藤　和人 - 改訂4 版基礎Ruby on Rails
+株式会社オイアクス- https://book.impress.co.jp/books/1117101135/
